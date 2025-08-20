@@ -13,7 +13,7 @@ This project demonstrates Django models, relationships, templates, forms, and ad
 
 ## Models
 
-- **Author**: name, birth date
+- **Author**: name
 - **Book**: title, author (ForeignKey), published date, price
 
 ## Getting Started
